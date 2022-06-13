@@ -20,7 +20,7 @@ namespace MyBiz
         {
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(options =>
-            options.UseSqlServer("Server=CAPR10;Database=MyBiz;Trusted_Connection=TRUE"));
+            options.UseSqlServer("Server=DESKTOP-90QS8RP;Database=MyBiz;Trusted_Connection=TRUE"));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

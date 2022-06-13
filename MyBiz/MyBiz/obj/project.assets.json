@@ -8475,19 +8475,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bduguest\\.nuget\\packages\\": {}
+    "C:\\Users\\Lamia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bduguest\\source\\repos\\MyBiz\\MyBiz\\MyBiz.csproj",
+      "projectUniqueName": "C:\\Users\\Lamia\\Desktop\\AspTasks\\MyBiz\\MyBiz\\MyBiz\\MyBiz.csproj",
       "projectName": "MyBiz",
-      "projectPath": "C:\\Users\\bduguest\\source\\repos\\MyBiz\\MyBiz\\MyBiz.csproj",
-      "packagesPath": "C:\\Users\\bduguest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bduguest\\source\\repos\\MyBiz\\MyBiz\\obj\\",
+      "projectPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\MyBiz\\MyBiz\\MyBiz\\MyBiz.csproj",
+      "packagesPath": "C:\\Users\\Lamia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lamia\\Desktop\\AspTasks\\MyBiz\\MyBiz\\MyBiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bduguest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lamia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8550,7 +8550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

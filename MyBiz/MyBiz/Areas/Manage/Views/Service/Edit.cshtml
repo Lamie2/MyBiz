@@ -1,0 +1,35 @@
+﻿@model Service
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-10 mx-auto border-dark">
+            <form asp-action="edit" method="post" enctype="multipart/form-data">
+                <div class=" mb-3">
+                    <label asp-for="Title" class="form-label">Title</label>
+                    <input asp-for="Title" type="text" class="form-control">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class=" mb-3">
+                    <label asp-for="Desc" class="form-label">Desc</label>
+                    <input asp-for="Desc" type="text" class="form-control">
+                    <span class="text-danger" asp-validation-for="Desc"></span>
+                </div>
+                <div class=" mb-3">
+                    <label asp-for="Icon" class="form-label">BtnText</label>
+                    <input asp-for="Icon" type="text" class="form-control">
+                    <span class="text-danger" asp-validation-for="Icon"></span>
+                </div>
+               
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
